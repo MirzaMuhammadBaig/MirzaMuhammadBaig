@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **any dex or defi project.**
 
-- 🤝 I’m looking for help with **any blockchain related project.**
+- 🤝 I’m looking that if anyone should help in **any blockchain related query.**
 
 - 💬 Ask me about **any blockchain & web2 related thing.**
 
