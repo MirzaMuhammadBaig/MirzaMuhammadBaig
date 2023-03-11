@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DBEF0&width=435&lines=Blockchain%2C+Web3.0%2C+Defi%2C+Dapp%2C+Dex+;%26+Mern+Stack+Developer" alt="Typing SVG" /></a>
 <h3 align="center">A junior web2, web3, dapp, defi, & blockchain developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzamuhammadbaig&label=Profile%20views&color=0e75b6&style=flat" alt="mirzamuhammadbaig" /> </p>
