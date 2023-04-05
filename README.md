@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **solana blockchain & rust language.**
 
-- 👯 I’m looking to collaborate on **any dex or defi project.**
+- 🌱 I’m also currently learning dexs in deep.
 
 - 🤝 I’m looking that if anyone should help in **any blockchain related query.**
 
