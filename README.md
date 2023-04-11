@@ -1,14 +1,6 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DBEF0&width=435&lines=Blockchain%2C+Web3.0%2C+Defi%2C+Dapp%2C+Dex+;%26+Mern+Stack+Developer" alt="Typing SVG" /></a>
-<h3 align="center">A junior web2, web3, dapp, defi, & blockchain developer.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzamuhammadbaig&label=Profile%20views&color=0e75b6&style=flat" alt="mirzamuhammadbaig" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirzamuhammadbaig" alt="mirzamuhammadbaig" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/muhammadbaig090" target="blank"><img src="https://img.shields.io/twitter/follow/muhammadbaig090?logo=twitter&style=for-the-badge" alt="muhammadbaig090" /></a> </p>
+<h3 align="center">A junior web2, web3, dapp, dex, defi, MERN & blockchain developer.</h3>
 
 - 🔭 I’m currently working on **blockchain technology.**
 
@@ -23,10 +15,6 @@
 - 📫 How to reach me **mirzamuhammadbaig328@gmail.com**
 
 - ⚡ Fun fact **bike raiding, horsing riding, driving, swimming, paragliding, shooting.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
