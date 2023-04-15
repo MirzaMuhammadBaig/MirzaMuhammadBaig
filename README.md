@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mirzamuhammadbaig328@gmail.com**
 
-- ⚡ Fun fact **bike raiding, horsing riding, driving, swimming, paragliding, shooting.**
+- ⚡ Fun fact **bike raiding, horse riding, driving, swimming, paragliding, shooting.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
