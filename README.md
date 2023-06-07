@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DBEF0&width=435&lines=Blockchain%2C+Web3.0%2C+Defi%2C+Dapp%2C+Dex+;%26+Mern+Stack+Developer" alt="Typing SVG" /></a>
-<h3 align="center">A junior web2, web3, dapp, dex, defi, MERN & blockchain developer.</h3>
+<h3 align="center">A junior web2, web3, dapp, nft, token, defi, MERN & blockchain developer.</h3>
 
 - 🔭 I’m currently working on **blockchain technology.**
 
-- 🌱 I’m currently learning **solana blockchain & rust language.**
-
-- 🌱 I’m also currently learning dexs in deep.
+- 🌱 I’m currently learning **decentralized exchanges and decentralized finance**
 
 - 🤝 I’m looking that if anyone should help in **any blockchain related query.**
 
@@ -26,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzamuhammadbaig&show_icons=true&locale=en&layout=compact" alt="mirzamuhammadbaig" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirzamuhammadbaig&show_icons=true&locale=en" alt="mirzamuhammadbaig" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirzamuhammadbaig&show_icons=true&locale=en" alt="mirzamuhammadbaig" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirzamuhammadbaig&" alt="mirzamuhammadbaig" /></p>
