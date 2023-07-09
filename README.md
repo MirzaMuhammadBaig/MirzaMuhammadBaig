@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DBEF0&width=435&lines=Blockchain%2C+Web3.0%2C+Nft%2C+Dapp%2C+and+;%26+Full+Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DBEF0&width=435&lines=Blockchain%2C+Web3.0%2C+Nft%2C+Dapp%2C+...+;%26+Full+Stack+Developer" alt="Typing SVG" /></a>
 <h3 align="center">A junior web2, web3, dapp, nft, token, defi, MERN & blockchain developer.</h3>
 
 - 🔭 I’m currently working on **blockchain technology.**
