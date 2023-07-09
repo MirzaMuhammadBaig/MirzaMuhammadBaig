@@ -10,11 +10,11 @@
 
 - 💬 Ask me about **any blockchain & web2 related thing.**
 
-- 📫 How to reach me **mirzamuhammadbaig328@gmail.com.**
-
 - ✨ Favorite Languages: **Solidity, Javascript, Typescript.**
 
-- 💰 RISING TALENT at **UPWORK.**
+- 💰 RISING TALENT at **FIVERR.**
+
+- 📫 How to reach me **mirzamuhammadbaig328@gmail.com.**
 
 - ⚡ Fun fact **bike raiding, horse riding, driving, swimming, paragliding, shooting.**
 
