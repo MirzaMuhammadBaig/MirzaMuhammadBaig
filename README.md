@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DBEF0&width=435&lines=Blockchain%2C+Web3.0%2C+Defi%2C+Dapp%2C+Dex+;%26+Mern+Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DBEF0&width=435&lines=Blockchain%2C+Web3.0%2C+Nft%2C+Dapp%2C+and+;%26+Full+Stack+Developer" alt="Typing SVG" /></a>
 <h3 align="center">A junior web2, web3, dapp, nft, token, defi, MERN & blockchain developer.</h3>
 
 - 🔭 I’m currently working on **blockchain technology.**
 
-- 🌱 I’m currently learning **decentralized exchanges and decentralized finance**
+- 🌱 I’m currently learning **dexs and defi**
 
 - 🤝 I’m looking that if anyone should help in **any blockchain related query.**
 
 - 💬 Ask me about **any blockchain & web2 related thing.**
 
-- 📫 How to reach me **mirzamuhammadbaig328@gmail.com**
+- 📫 How to reach me **mirzamuhammadbaig328@gmail.com.**
+
+- ✨ Favorite Languages: **Solidity, Javascript, Typescript.**
+
+- 💰 RISING TALENT at **UPWORK.**
 
 - ⚡ Fun fact **bike raiding, horse riding, driving, swimming, paragliding, shooting.**
 
