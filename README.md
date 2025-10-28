@@ -14,7 +14,7 @@
 
 - 💰 RISING TALENT at **FIVERR.**
 
-- 📫 How to reach me **mirzamuhammadbaig328@gmail.com.**
+- 📫 How to reach me **webdev.muhammad@gmail.com.**
 
 - ⚡ Fun fact **bike raiding, horse riding, driving, swimming, paragliding, shooting.**
 
