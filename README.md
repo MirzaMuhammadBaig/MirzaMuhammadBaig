@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DBEF0&width=435&lines=Blockchain%2C+Web3.0%2C+Nft%2C+Dapp%2C+...+;%26+Full+Stack+Developer" alt="Typing SVG" /></a>
-<h3 align="center">A junior web2, web3, dapp, nft, token, defi, MERN & blockchain developer.</h3>
+<h3 align="center">A junior front end, backend ( full stack ) & shopify developer. I was working on full stack blockchain development but now I am exclusively working on full stack web development.</h3>
 
-- 🔭 I’m currently working on **blockchain technology.**
+- 🔭 I’m currently working on **website technology.**
 
-- 🌱 I’m currently learning **dexs and defi**
+- 🌱 I’m currently learning **App Development**
 
-- 🤝 I’m looking that if anyone should help in **any blockchain related query.**
+- 🤝 I’m looking that if anyone should help in **any website related query.**
 
-- 💬 Ask me about **any blockchain & web2 related thing.**
+- 💬 Ask me about **any website development related thing.**
 
-- ✨ Favorite Languages: **Solidity, Javascript, Typescript.**
+- ✨ Favorite Languages: **Javascript, Typescript.**
 
 - 💰 RISING TALENT at **FIVERR.**
 
-- 📫 How to reach me **webdev.muhammad@gmail.com.**
+- 📫 How to reach me **mirzamuhammadbaig328@gmail.com.**
 
 - ⚡ Fun fact **bike raiding, horse riding, driving, swimming, paragliding, shooting.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mmb-blockchain-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmb-blockchain-developer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mirza-muhammad-baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmb-blockchain-developer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
