@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Muhammad</h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DBEF0&width=455&lines=A+passionate+full+stack+web+Developer%2C+...+;seeking+freelance+projects." alt="Typing SVG" /></a>
-<h3 align="center">Initially, I was working on full stack blockchain development but now I am exclusively working on full stack web development.</h3>
+<h1 align="center">Hi 👋, I'm Muhammad</h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DBEF0&width=455&lines=A+passionate+full+stack+blockchain+Developer%2C+...+;seeking+freelance+projects." alt="Typing SVG" /></a>
+<h3 align="center">I am working on full stack blockchain development & exclusively on full stack DApp & Web3 development.</h3>
 
 <p align="left"> <a href="https://twitter.com/muhammadbaig__" target="blank"><img src="https://img.shields.io/twitter/follow/muhammadbaig__?logo=twitter&style=for-the-badge" alt="muhammadbaig__" /></a> </p>
 
-- 🔭 I’m currently working on [Zeenat-e-Nisa](https://zeenat-e-nisa.com/)
+- 🔭 I’m currently working on a CrowdFunding Project & [Zeenat-e-Nisa](https://zeenat-e-nisa.com/)
 
 - 🌱 I’m currently learning **App development**
 
-- 👯 I’m looking to collaborate on **any project related to website development**
+- 👯 I’m looking to collaborate on **any project related to DApp development**
 
-- 🤝 I’m looking for help with **any website related query**
+- 🤝 I’m looking for help with **any DApp related query**
 
-- 💬 Ask me about **javascript, react.js, RTK, node.js, MongoDB**
+- 💬 Ask me about **solidity, javascript, Ether.js, react.js, Hardhat, Thirdweb, RTK, node.js, IPFS, Pinata, MongoDB**
 
 - 📫 How to reach me **mirzamuhammadbaig328@gmail.com**
 
