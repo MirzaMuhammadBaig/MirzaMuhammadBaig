@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad</h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DBEF0&width=480&lines=A+passionate+full+stack+Ethereum+Developer%2C+...+;seeking+freelance+projects." alt="Typing SVG" /></a>
+<h1 align="center">Hi 👋, I'm Muhammad</h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DBEF0&width=510&lines=A+passionate+full+stack+Ethereum+Developer%2C+...+;seeking+freelance+projects." alt="Typing SVG" /></a>
 <h3 align="center">I am working on full stack Ethereum Blockchain Development.</h3>
 
 <p align="left"> <a href="https://twitter.com/muhammadbaig__" target="blank"><img src="https://img.shields.io/twitter/follow/muhammadbaig__?logo=twitter&style=for-the-badge" alt="muhammadbaig__" /></a> </p>
